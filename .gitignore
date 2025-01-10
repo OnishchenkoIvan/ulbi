@@ -4,5 +4,7 @@ node_modules
 package-lock.json
 /coverage
 /storybook-static
+.loki/report.json
+.loki/report.html
 
 *storybook.log
