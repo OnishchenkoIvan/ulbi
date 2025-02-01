@@ -1,6 +1,9 @@
 const path = require('path');
 
 module.exports = {
+  globals: {
+    __IS_DEV__: true,
+  },
   coverageDirectory: 'coverage',
   testEnvironment: 'jsdom',
   coveragePathIgnorePatterns: ['/node_modules/', '/dist/'],
