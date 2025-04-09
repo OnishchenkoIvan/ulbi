@@ -1,6 +1,8 @@
 {
   "Decrement": "Decrement",
   "Increment": "Increment",
+  "login": "login",
+  "password": "password",
   "Войти": "Войти",
   "Главная": "Главная",
   "Главная страница": "Главная страница",
